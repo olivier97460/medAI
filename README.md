@@ -17,7 +17,6 @@ We are free, not chaotic.
 **No forks. No woke agendas. No corporate hijacks.
 Decisions are scientific.
 Mission To build tools that help practitioners — human and veterinary — make better, faster, and scientifically grounded decisions.
----
 
 ## English Version
 
