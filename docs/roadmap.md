@@ -39,6 +39,7 @@ santAI/
 │   ├── dosage_engine.py           # Calculs posologies
 │   ├── interaction_checker.py     # Vérification interactions
 │   ├── molecule_visual.py         # Active molecule visual
+│   │   https://molecule-icon-generator.streamlit.app/
 │   └── vidal_interface.py         # Interface base Vidal
 │
 ├── api/
