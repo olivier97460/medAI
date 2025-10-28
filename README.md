@@ -1,7 +1,8 @@
 # MedAI / VetAI / SantAI
 © 2025 Olivier Bénard — medai.re  
 Open-source AI-powered clinical assistant for human and veterinary medicine.
-MedAI  / VetAI is an intelligent clinical assistant designed to support practitioners in real-time decision-making, documentation, and case analysis. It combines **audio transcription, natural language processing, and medical reasoning** to provide a complete workflow for patient consultations.
+MedAI  / VetAI is an intelligent clinical assistant designed to support practitioners in real-time decision-making, documentation, and case analysis.
+It combines **audio transcription, natural language processing, and medical reasoning to provide a complete workflow for patient consultations.
 
 This is the FIRST clinical assistant with:
 
@@ -14,7 +15,7 @@ This is the FIRST clinical assistant with:
 
 MedAI  / VetAI is built around the One Health concept — connecting human, animal, and environmental health.
 We are free, not chaotic.
-**No forks.** No woke agendas. No corporate hijacks.
+No forks. No woke agendas. No corporate hijacks.
 Decisions are scientific.
 Mission To build tools that help practitioners — human and veterinary — make better, faster, and scientifically grounded decisions.
 
